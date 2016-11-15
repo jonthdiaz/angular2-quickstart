@@ -17,9 +17,6 @@
    ],
   "compileOnSave": true,
   "exclude": [
-    "node_modules",
-    "public",
-    "typings/browser",
-    "typings/browser.d.ts"
+    "node_modules"
   ]
 }
